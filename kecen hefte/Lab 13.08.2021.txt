@@ -1,0 +1,39 @@
+
+1 Task 
+User Class Yaradin Name,Surname ,Username,Password ,Id propertileri olsun birde static counter
+Constructor da counteri ++ edib Id ye menimsedin
+**********************************************************************************************************
+
+2 Task 
+Helper static class yaradin
+Bir Metodu olsun iki paramter qebul etsin User array tipinden bir users birde User tipinden bir user qebul etsin , 
+ve hemin useri users arrayine daxil etsin ve geriye users-i qaytarsin   Example : User[] AppendToArray(User[] users,User user)
+
+**********************************************************************************************************
+3 Task 
+Ikinci Metodu olsun iki paramter qebul etsin User array tipinden bir users birde int tipinden bir id qebul etsin  
+ve hemin idili useri geriye qaytarsin  Example : FindUser(User[] users,int id)
+**********************************************************************************************************
+
+4 Task
+Butun userlarin meluymatlarini ekrana cixardan(seliqeli sekilde) Metod yaz ShowUsers Helper Clasinin icinde 
+**********************************************************************************************************
+5 Task
+IAccount interface yaradin CreateAccount metod olsun 
+(string name ,string surname, string username ,string password) qebul etsin void olsun
+**********************************************************************************************************
+6 Task
+UserOperation adinda class yaradin bir Usertipinde bir Users Arrayi yaradin ve ilkin bow deyer verin User[] Users ={};
+ IAccounT interface-den miras alsin ve CreateAccount metodunu implement edin 
+ve body-ni iwleyin
+**********************************************************************************************************
+7 Task
+ UserOperation classindan  operation adinda bir object yaradin sonra
+ CreateAcoount metodunu istifade ederek 5 dene user yaradin
+**********************************************************************************************************
+8 Task
+Idisi 3 olan Useri adini passwordunu deyiw ve butun melumatlarini ekrana cixart
+**********************************************************************************************************
+9 Task
+User Clasinin To String Metodunu ovverride edin
+*********************************************************************************************************

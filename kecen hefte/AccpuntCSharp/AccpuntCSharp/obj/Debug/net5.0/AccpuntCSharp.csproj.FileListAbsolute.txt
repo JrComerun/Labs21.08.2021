@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\source\repos\AccpuntCSharp\AccpuntCSharp\bin\Debug\net5.0\AccpuntCSharp.exe
+C:\Users\TOSHIBA\source\repos\AccpuntCSharp\AccpuntCSharp\bin\Debug\net5.0\AccpuntCSharp.deps.json
+C:\Users\TOSHIBA\source\repos\AccpuntCSharp\AccpuntCSharp\bin\Debug\net5.0\AccpuntCSharp.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\AccpuntCSharp\AccpuntCSharp\bin\Debug\net5.0\AccpuntCSharp.runtimeconfig.dev.json
+C:\Users\TOSHIBA\source\repos\AccpuntCSharp\AccpuntCSharp\bin\Debug\net5.0\AccpuntCSharp.dll
+C:\Users\TOSHIBA\source\repos\AccpuntCSharp\AccpuntCSharp\bin\Debug\net5.0\ref\AccpuntCSharp.dll
+C:\Users\TOSHIBA\source\repos\AccpuntCSharp\AccpuntCSharp\bin\Debug\net5.0\AccpuntCSharp.pdb
+C:\Users\TOSHIBA\source\repos\AccpuntCSharp\AccpuntCSharp\obj\Debug\net5.0\AccpuntCSharp.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\AccpuntCSharp\AccpuntCSharp\obj\Debug\net5.0\AccpuntCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\AccpuntCSharp\AccpuntCSharp\obj\Debug\net5.0\AccpuntCSharp.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\AccpuntCSharp\AccpuntCSharp\obj\Debug\net5.0\AccpuntCSharp.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\AccpuntCSharp\AccpuntCSharp\obj\Debug\net5.0\AccpuntCSharp.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\AccpuntCSharp\AccpuntCSharp\obj\Debug\net5.0\AccpuntCSharp.dll
+C:\Users\TOSHIBA\source\repos\AccpuntCSharp\AccpuntCSharp\obj\Debug\net5.0\ref\AccpuntCSharp.dll
+C:\Users\TOSHIBA\source\repos\AccpuntCSharp\AccpuntCSharp\obj\Debug\net5.0\AccpuntCSharp.pdb
+C:\Users\TOSHIBA\source\repos\AccpuntCSharp\AccpuntCSharp\obj\Debug\net5.0\AccpuntCSharp.genruntimeconfig.cache
